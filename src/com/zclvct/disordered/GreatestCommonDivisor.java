@@ -16,7 +16,6 @@ public class GreatestCommonDivisor {
     }
 
     private static int gcb(int p, int q) {
-
         if( q == 0 )
             return p ;
         int r = p % q;
