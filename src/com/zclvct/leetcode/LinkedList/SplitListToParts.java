@@ -1,4 +1,4 @@
-package com.zclvct.leetcode;
+package com.zclvct.leetcode.LinkedList;
 
 /**
  * @author zhaochong
