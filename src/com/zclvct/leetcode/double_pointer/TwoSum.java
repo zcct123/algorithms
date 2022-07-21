@@ -1,6 +1,5 @@
 package com.zclvct.leetcode.double_pointer;
 
-import java.util.HashMap;
 import java.util.Map;
 
 /**
